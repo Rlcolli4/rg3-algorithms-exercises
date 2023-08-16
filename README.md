@@ -1,2 +1,2 @@
-# rg3-algorithms-exercises
+# algorithms-exercises
 Created with CodeSandbox
